@@ -1,4 +1,4 @@
-import { useRouter } from 'next/router'
+import { useRouter } from 'next/router';
 import React, { useContext } from 'react'
 import { Store } from '../utils/store';
 
